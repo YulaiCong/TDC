@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9a3f1c3-f43b-4f72-ab2c-625491d153b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9d15728b-f7f0-4f7a-aeee-6801b41a55af" />
+  <component name="ProjectId" id="1uk5SlIeonbyvxMXxLpKoYVJyOL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test_ylc" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TDC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_ylc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9a3f1c3-f43b-4f72-ab2c-625491d153b3" name="Default Changelist" comment="" />
+      <created>1625196748387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625196748387</updated>
+      <workItem from="1625196749442" duration="15647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625196806783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1625196806783" />
+    <state x="1772" y="804" key="#xdebugger.evaluate" timestamp="1625226506308">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1772" y="804" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1625226506308" />
+    <state width="1197" height="466" key="DebuggerActiveHint" timestamp="1625206913838">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1197" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1625206913838" />
+    <state width="2517" height="520" key="GridCell.Tab.0.bottom" timestamp="1625226512814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1625226512814" />
+    <state width="2517" height="520" key="GridCell.Tab.0.center" timestamp="1625226512814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1625226512814" />
+    <state width="2517" height="520" key="GridCell.Tab.0.left" timestamp="1625226512814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1625226512814" />
+    <state width="2517" height="520" key="GridCell.Tab.0.right" timestamp="1625226512814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1625226512814" />
+    <state width="2517" height="520" key="GridCell.Tab.1.bottom" timestamp="1625226511224">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1625226511224" />
+    <state width="2517" height="520" key="GridCell.Tab.1.center" timestamp="1625226511224">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1625226511224" />
+    <state width="2517" height="520" key="GridCell.Tab.1.left" timestamp="1625226511224">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1625226511224" />
+    <state width="2517" height="520" key="GridCell.Tab.1.right" timestamp="1625226511224">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="520" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1625226511224" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1625196852473">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1625196852473" />
+    <state width="2079" height="708" key="XDebugger.FullValuePopup" timestamp="1625225276116">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2079" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1625225276116" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1625200110312">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1625200110312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>193</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_ylc.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TDC$Test_ylc.coverage" NAME="Test_ylc Coverage Results" MODIFIED="1625226506361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
